@@ -29,4 +29,4 @@ python main.py
 
 ## How to contribute
 
-If you want to bring further improvement on my project, you can modify as please as you want the main.py. All you have to do after is to push your modification on the "contribution" branch.
+On the "Issues" button or [click here](https://github.com/Fritober/Eureka-Johan_Liu-CDOF4/issues), you will find all the issues about my project where you could bring your contribution by clicking of the issues and then add comments.
