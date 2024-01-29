@@ -21,6 +21,12 @@ cd "your_repo"
 git clone https://github.com/Fritober/Eureka-Johan_Liu-CDOF4
 ```
 
+- Go to the repo :
+  
+```shell
+cd "your_repo"/Eureka-Johan_Liu-CDOF4
+```
+
 - Launch the Quiz Game :
 
 ```shell
