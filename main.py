@@ -27,10 +27,11 @@ class QuizGame:
             user_answer = self.display_question(question)
             correct_answer = question['correct_option']
             
-            self.score += 1
+            
             
             if user_answer == correct_answer:
                 print("Correct !\n")
+                self.score += 1
             else:
                 print(f"Faux. La réponse correcte était l'option {correct_answer}.\n")
 
@@ -63,9 +64,15 @@ questions = [
         'options': ['Désert du Sahara', 'Désert de Gobi', 'Désert d\'Atacama', 'Antarctique'],
         'correct_option': 4
     },
+    {
+        'question': 'Quelle est la capitale de l\'Australie ?',
+        'options': ['Sydney', 'Melbourne', 'Canberra', 'Adélaïde'],
+        'correct_option': 3
+    }
     # Ajoutez autant de questions que vous le souhaitez
 ]
 
 # Créer une instance du jeu et le lancer
-quiz = QuizGame(questions)
-quiz.run()
+if __name__ == '__main__':
+    quiz = QuizGame(questions)
+    quiz.run()
