@@ -64,6 +64,11 @@ questions = [
         'options': ['Désert du Sahara', 'Désert de Gobi', 'Désert d\'Atacama', 'Antarctique'],
         'correct_option': 4
     },
+    {
+        'question': 'Quelle est la capitale de l\'Australie ?',
+        'options': ['Sydney', 'Melbourne', 'Canberra', 'Adélaïde'],
+        'correct_option': 3
+    }
     # Ajoutez autant de questions que vous le souhaitez
 ]
 
