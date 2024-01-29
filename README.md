@@ -27,11 +27,19 @@ git clone https://github.com/Fritober/Eureka-Johan_Liu-CDOF4
 cd "your_repo"/Eureka-Johan_Liu-CDOF4
 ```
 
+- Pull the Git (if modifications) :
+
+```shell
+git pull
+```
+
 - Launch the Quiz Game :
 
 ```shell
 python main.py
 ```
+
+- 
 
 ## How to contribute
 
