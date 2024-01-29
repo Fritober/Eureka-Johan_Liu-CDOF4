@@ -26,9 +26,11 @@ class QuizGame:
         for question in self.questions:
             user_answer = self.display_question(question)
             correct_answer = question['correct_option']
+            
+            self.score += 1
+            
             if user_answer == correct_answer:
                 print("Correct !\n")
-                self.score += 1
             else:
                 print(f"Faux. La réponse correcte était l'option {correct_answer}.\n")
 
