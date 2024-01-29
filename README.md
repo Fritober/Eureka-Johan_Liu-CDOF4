@@ -43,9 +43,9 @@ python main.py
 
 ## How to contribute
 
-On the "Issues" button or [click here](https://github.com/Fritober/Eureka-Johan_Liu-CDOF4/issues), you will find all the issues about my project where you could bring your contribution by clicking of the issues and then add comments. 
+ - On the "Issues" button or [click here](https://github.com/Fritober/Eureka-Johan_Liu-CDOF4/issues), you will find all the issues about my project where you could bring your contribution by clicking of the issues and then add comments. You can also add yourself an issue about my project by clicking on "new issue" ! 
 
-Or you can add yourself an issue about my project by clicking on "new issue" ! 
+- Fork the Git and add any modifications you want. Once modified, click on "Contribute" to pull a request. 
 
 
 
