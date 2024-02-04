@@ -7,40 +7,7 @@ Welcome to the captivating world of quiz games, where knowledge and excitement c
 Get ready for an intellectual adventure where each question is a gateway to discovery and excitement!
 
 ## How to run the project 
-
-Here are the steps to launch your Quiz Game :
-- You first need to specify the directory where you want to clone the Git repository :
-  
-```shell
-cd "your_repo"
-```
-
-- Clone the git :
-
-```shell
-git clone https://github.com/Fritober/Eureka-Johan_Liu-CDOF4
-```
-
-- Go to the repo :
-  
-```shell
-cd "your_repo"/Eureka-Johan_Liu-CDOF4
-```
-
-- Pull the Git (if modifications) :
-
-```shell
-git pull
-```
-
-- Launch the Quiz Game :
-
-```shell
-python main.py
-```
-
-- 
-
+To launch the projet, just clone the repo onto your computer, and execute the file main.py ! If you have issue launching the file, here is a tutorial (in French) [link](https://pythonfaqfr.readthedocs.io/en/latest/executer_script.html)
 ## How to contribute
 
  - On the "Issues" button or [click here](https://github.com/Fritober/Eureka-Johan_Liu-CDOF4/issues), you will find all the issues about my project where you could bring your contribution by clicking of the issues and then add comments. You can also add yourself an issue about my project by clicking on "new issue" ! 
